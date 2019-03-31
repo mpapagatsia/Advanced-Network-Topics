@@ -1,0 +1,13 @@
+Experiment ID : 2017-12-27T10:50:21.594Z
+
+Nof packets delivered correctly = 3796
+
+Commit ID = 856a8e2
+
+Parameters:
+Center Frequency = 1813 MHz
+tx amplitude = 0.9
+tx gain = 70.0
+rx gain = 50.0
+modulation = gmsk
+bitrate = 2000000

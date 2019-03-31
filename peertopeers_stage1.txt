@@ -1,0 +1,34 @@
+Team1(node056 -> node060):
+
+Parameters:
+-> tx-amplitude = 0.50
+-> tx-gain = 60.0
+-> rx-gain = 50.0
+-> modulation = qam
+-> constellation-points = 16
+-> bitrate = 6000000
+
+Received: 	11477      
+Correct: 	11308      
+Sent: 		14712      
+Experiment ID:	2017-12-10T16:24:26.152Z
+
+Commit ID:	8fe02bd
+
+
+Team2(node055 -> node059):
+
+Parameters:
+-> tx-amplitude = 0.50
+-> tx-gain = 60.0
+-> rx-gain = 50.0
+-> modulation = qam
+-> constellation-points = 16
+-> bitrate = 6000000   
+
+Received: 	11434     
+Correct: 	11244       
+Sent: 		14470 
+Experiment ID:	2017-12-09T20:20:06.898Z
+
+Commit ID:	8fe02bd
